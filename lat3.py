@@ -1,3 +1,12 @@
+# membuat program sederhana yang 
+# di dalam program tersebut
+# memiliki metode : 
+# method overloading, overriding, 
+# operator overloading dan duct typing  
+# dan fungsi  abstraksi muse @property @abstactmethod 
+
+#Atika Adelia (123140172)
+
 from abc import ABC, abstractmethod
 
 # Kelas abstrak untuk Karyawan
